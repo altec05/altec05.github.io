@@ -160,8 +160,8 @@ a:hover {
 	color:#FFF;
 	display:inline-block;
 	list-style:none;
-	margin:15px 15px 0 0;
-	padding:10px;
+	margin:5px 5px 0 0;
+	padding: 5px;
 	text-align:justify;
 }
 
@@ -196,7 +196,7 @@ a:hover {
 }
 .handmade {
   text-align:right;
-  margin-top:100px;
+  margin-top:25px;
 }
 .handmade em {
   font-family: 'Shadows Into Light', cursive;
