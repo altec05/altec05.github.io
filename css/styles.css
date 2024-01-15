@@ -26,6 +26,8 @@ body
 h1
 {
 	color:rgba(0,0,0,.75);
+	font-family:Open Sans, sans-serif;
+	font-style:normal;
 }
 
 .wrapper
@@ -159,7 +161,6 @@ a:hover {
 	border-radius:5px;
 	color:#FFF;
 	display:inline-block;
-	list-style:;
 	margin:5px 5px 0 0;
 	padding: 5px;
 	text-align:justify;
